@@ -3,30 +3,38 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+
+
+<h2>Project Overview</h2>
+This project demonstrates the installation and initial setup of an enterprise-style ticketing system (osTicket) on a Windows-based environment using IIS, PHP, and MySQL. The focus is on prerequisites, dependencies, and successful deployment.<br />
 
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Internet Information Services (IIS)
+- PHP
+- MySQL
+- osTicket
+- HeidiSQL
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10 Enterprise, version 22H2 - x64 Gen2
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- IIS enabled with CGI support.
+- PHP registered with IIS via PHP Manager.
+- IIS URL Rewrite Module installed.
+- Visual C++ Redistributable (x86) installed.
+- PHP extensions enabled: (php_imap.dll, php_intl.dll, php_opcache.dll)
+- MySQL server configured and accessible.
 
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="900" alt="Screenshot 1 2026-01-20 14-57-11" src="https://github.com/user-attachments/assets/e4f00171-7b94-43fc-a046-1b22b746aed9" />
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
