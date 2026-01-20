@@ -34,9 +34,7 @@ This project demonstrates the installation and initial setup of an enterprise-st
 <h2>Installation Steps</h2>
 
 <p>
-<img src="screenshots/step1-azure-vm-rdp.png"
-     width="900"
-     alt="Azure VM accessed via RDP for osTicket installation" />
+<img src="step1-azure-vm-rdp.png.png" width="900" alt="Azure VM accessed via RDP for osTicket installation" />
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
