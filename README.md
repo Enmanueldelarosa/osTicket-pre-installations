@@ -37,7 +37,10 @@ This project demonstrates the installation and initial setup of an enterprise-st
 <img src="screenshots/step1-azure-vm-rdp.png.png" width="960" />
 </p>
 <p>
-empty
+1) Connect to a Windows virtual machine using Remote Desktop(In this case, I used an Azure virtual machine). Once inside the VM, <a href="https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD" target="_blank" rel="noopener noreferrer">
+  Download osTicket Installation Files
+</a>
+and extract its contents to the desktop. After extracting the archive, confirm that a folder named osTicket-Installation-Files is present. This folder will be used throughout the setup process to install osTicket and its required dependencies.
 </p>
 <br />
 
