@@ -40,7 +40,6 @@ This project demonstrates the installation and initial setup of an enterprise-st
 1) Connect to a Windows virtual machine using Remote Desktop(In this case, I used an Azure virtual machine). Once inside the VM, <a href="https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD" target="_blank" rel="noopener noreferrer">
   Download osTicket Installation Files
 </a>
-and extract its contents to the desktop. After extracting the archive, confirm that a folder named osTicket-Installation-Files is present. This folder will be used throughout the setup process to install osTicket and its required dependencies.
 </p>
 <br />
 
@@ -48,7 +47,7 @@ and extract its contents to the desktop. After extracting the archive, confirm t
 <img src="screenshots/Screenshot from 2026-01-16 10-35-40.png" width="960" />
 </p>
 <p>
-empty
+2) Extract the contents to the desktop. After extracting the archive, confirm that a folder named osTicket-Installation-Files is present. This folder will be used throughout the setup process to install osTicket and its required dependencies.
 </p>
 <br />
 
@@ -56,7 +55,7 @@ empty
 <img src="screenshots/Screenshot from 2026-01-16 10-40-20.png" width="960" />
 </p>
 <p>
-empty
+3) Open Windows Features on the virtual machine and enable Internet Information Services (IIS). Within the IIS feature set, navigate to World Wide Web Services → Application Development Features and make sure CGI is checked. Apply the changes and allow Windows to install the required components before proceeding.
 </p>
 <br />
 
