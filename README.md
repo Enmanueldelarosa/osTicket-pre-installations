@@ -37,22 +37,86 @@ This project demonstrates the installation and initial setup of an enterprise-st
 <img src="screenshots/step1-azure-vm-rdp.png.png" width="960" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+empty
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="screenshots/Screenshot from 2026-01-16 10-35-40.png" width="960" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+empty
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="screenshots/Screenshot from 2026-01-16 10-40-20.png" width="960" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+empty
+</p>
+<br />
+
+<p>
+<img src="screenshots/Screenshot from 2026-01-16 10-45-51.png" width="960" />
+</p>
+<p>
+empty
+</p>
+<br />
+
+<p>
+<img src="screenshots/Screenshot from 2026-01-16 10-46-46.png" width="960" />
+</p>
+<p>
+empty
+</p>
+<br />
+
+<p>
+<img src="screenshots/Screenshot from 2026-01-16 10-49-51.png" width="960" />
+</p>
+<p>
+empty
+</p>
+<br />
+
+<p>
+<img src="screenshots/Screenshot from 2026-01-16 10-51-01.png" width="960" />
+</p>
+<p>
+empty
+</p>
+<br />
+
+<p>
+<img src="screenshots/Screenshot from 2026-01-16 10-52-23.png" width="960" />
+</p>
+<p>
+empty
+</p>
+<br />
+
+<p>
+<img src="screenshots/Screenshot from 2026-01-16 10-53-56.png" width="960" />
+</p>
+<p>
+empty
+</p>
+<br />
+
+<p>
+<img src="screenshots/Screenshot from 2026-01-16 10-55-02.png" width="960" />
+</p>
+<p>
+empty
+</p>
+<br />
+
+<p>
+<img src="screenshots/Screenshot from 2026-01-16 10-57-15.png" width="960" />
+</p>
+<p>
+empty
 </p>
 <br />
