@@ -38,7 +38,7 @@ This project demonstrates the installation and initial setup of an enterprise-st
 </p>
 <p>
 1) Connect to a Windows virtual machine using Remote Desktop(In this case, I used an Azure virtual machine). Once inside the VM, <a href="https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD" target="_blank" rel="noopener noreferrer">
-  Download osTicket Installation Files
+  Download osTicket Installation Files.
 </a>
 </p>
 <br />
