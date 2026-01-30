@@ -95,7 +95,7 @@ This project demonstrates the installation and initial setup of an enterprise-st
 <img src="screenshots/Screenshot from 2026-01-16 10-52-23.png" width="960" />
 </p>
 <p>
-empty
+8) From the osTicket-Installation-Files folder, run VC_redist.x86.exe to install the Microsoft Visual C++ Redistributable package. Complete the installation using the default settings before continuing to the next step.
 </p>
 <br />
 
@@ -103,7 +103,7 @@ empty
 <img src="screenshots/Screenshot from 2026-01-16 10-53-56.png" width="960" />
 </p>
 <p>
-empty
+9) From the osTicket-Installation-Files folder, run mysql-5.5.62-win32.msi to begin installing MySQL Server. When prompted during the setup, select a Typical installation and allow the installer to complete.
 </p>
 <br />
 
@@ -111,7 +111,7 @@ empty
 <img src="screenshots/Screenshot from 2026-01-16 10-55-02.png" width="960" />
 </p>
 <p>
-empty
+10) After the MySQL installation finishes, launch the MySQL Configuration Wizard. Select Standard Configuration to proceed with the default server settings.
 </p>
 <br />
 
@@ -119,6 +119,6 @@ empty
 <img src="screenshots/Screenshot from 2026-01-16 10-57-15.png" width="960" />
 </p>
 <p>
-empty
+11) During the configuration process, set a simple password for the MySQL root user that you can easily remember.
 </p>
 <br />
