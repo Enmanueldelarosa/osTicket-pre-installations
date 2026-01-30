@@ -63,7 +63,7 @@ This project demonstrates the installation and initial setup of an enterprise-st
 <img src="screenshots/Screenshot from 2026-01-16 10-45-51.png" width="960" />
 </p>
 <p>
-empty
+4) From the osTicket-Installation-Files folder, locate and run PHPManagerForIIS_V1.5.0.msi to install PHP Manager for IIS. Complete the installation using the default settings.
 </p>
 <br />
 
@@ -71,7 +71,7 @@ empty
 <img src="screenshots/Screenshot from 2026-01-16 10-46-46.png" width="960" />
 </p>
 <p>
-empty
+5) From the osTicket-Installation-Files folder, locate and run rewrite_amd64_en-US.msi to install the IIS URL Rewrite Module. Complete the installation using the default options.
 </p>
 <br />
 
@@ -79,7 +79,7 @@ empty
 <img src="screenshots/Screenshot from 2026-01-16 10-49-51.png" width="960" />
 </p>
 <p>
-empty
+6) Create a new directory at C:\PHP on the virtual machine.
 </p>
 <br />
 
@@ -87,7 +87,7 @@ empty
 <img src="screenshots/Screenshot from 2026-01-16 10-51-01.png" width="960" />
 </p>
 <p>
-empty
+7) From the osTicket-Installation-Files folder, extract php-7.3.8-nts-Win32-VC15-x86.zip directly into the C:\PHP directory created in the previous step. After extraction, verify that the PHP files are present inside the C:\PHP folder.
 </p>
 <br />
 
