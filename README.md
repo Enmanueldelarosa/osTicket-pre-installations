@@ -151,7 +151,7 @@ This project demonstrates the installation and initial setup of an enterprise-st
 <img src="screenshots/4.png" width="960" />
 </p>
 <p>
-13) 
+15) From the osTicket-Installation-Files folder, locate osTicket-v1.15.8.zip and extract its contents.
 </p>
 <br />
 
@@ -159,7 +159,7 @@ This project demonstrates the installation and initial setup of an enterprise-st
 <img src="screenshots/5.png" width="960" />
 </p>
 <p>
-13) 
+16) Open the extracted osTicket directory and copy the upload folder into C:\inetpub\wwwroot, which is the default web root used by IIS to host web applications. After copying the folder, rename upload to osTicket so IIS can serve the application from the correct directory.
 </p>
 <br />
 
@@ -167,7 +167,7 @@ This project demonstrates the installation and initial setup of an enterprise-st
 <img src="screenshots/6.png" width="960" />
 </p>
 <p>
-13) 
+17) After copying and renaming the application folder, restart IIS to apply the changes. In IIS Manager, stop the server and then start it again to reload the configuration.
 </p>
 <br />
 
@@ -175,7 +175,7 @@ This project demonstrates the installation and initial setup of an enterprise-st
 <img src="screenshots/7777.png" width="960" />
 </p>
 <p>
-13) 
+18) Navigate to Sites → Default Web Site → osTicket. With the osTicket site selected, click *“Browse:80” on the right-hand panel to open the application in your web browser. Note that some extensions are not enabled.
 </p>
 <br />
 
@@ -183,7 +183,7 @@ This project demonstrates the installation and initial setup of an enterprise-st
 <img src="screenshots/8888.png" width="960" />
 </p>
 <p>
-13) 
+19) Return to IIS Manager and navigate to Sites → Default Web Site → osTicket. With the osTicket site selected, double-click PHP Manager, then click “Enable or disable an extension” to manage the PHP extensions required for osTicket.
 </p>
 <br />
 
@@ -191,7 +191,7 @@ This project demonstrates the installation and initial setup of an enterprise-st
 <img src="screenshots/9999.png" width="960" />
 </p>
 <p>
-13) 
+20) In PHP Manager, search php_imap.dll and enable the extension.
 </p>
 <br />
 
@@ -199,7 +199,7 @@ This project demonstrates the installation and initial setup of an enterprise-st
 <img src="screenshots/1010.png" width="960" />
 </p>
 <p>
-13) 
+21) In PHP Manager, find php_intl.dll and enable it.
 </p>
 <br />
 
@@ -207,7 +207,7 @@ This project demonstrates the installation and initial setup of an enterprise-st
 <img src="screenshots/11.png" width="960" />
 </p>
 <p>
-13) 
+22) In PHP Manager, locate php_opcache.dll and enable the extension.
 </p>
 <br />
 
@@ -215,6 +215,6 @@ This project demonstrates the installation and initial setup of an enterprise-st
 <img src="screenshots/12.png" width="960" />
 </p>
 <p>
-13) 
+23) Refresh the osTicket site in your browser, and observe the changes.
 </p>
 <br />
