@@ -122,3 +122,99 @@ This project demonstrates the installation and initial setup of an enterprise-st
 11) During the configuration process, set a simple password for the MySQL root user that you can easily remember.
 </p>
 <br />
+
+<p>
+<img src="screenshots/1.png" width="960" />
+</p>
+<p>
+12) Open Internet Information Services (IIS) Manager on the virtual machine with administrator privileges.
+</p>
+<br />
+
+<p>
+<img src="screenshots/2.png" width="960" />
+</p>
+<p>
+13) Inside IIS Manager, open PHP Manager and register the PHP executable by browsing to C:\PHP\php-cgi.exe.
+</p>
+<br />
+
+<p>
+<img src="screenshots/3.png" width="960" />
+</p>
+<p>
+14) After registering PHP, restart IIS to apply the changes. In IIS Manager, stop the server and then start it again to reload the configuration.
+</p>
+<br />
+
+<p>
+<img src="screenshots/4.png" width="960" />
+</p>
+<p>
+13) 
+</p>
+<br />
+
+<p>
+<img src="screenshots/5.png" width="960" />
+</p>
+<p>
+13) 
+</p>
+<br />
+
+<p>
+<img src="screenshots/6.png" width="960" />
+</p>
+<p>
+13) 
+</p>
+<br />
+
+<p>
+<img src="screenshots/7777.png" width="960" />
+</p>
+<p>
+13) 
+</p>
+<br />
+
+<p>
+<img src="screenshots/8888.png" width="960" />
+</p>
+<p>
+13) 
+</p>
+<br />
+
+<p>
+<img src="screenshots/9999.png" width="960" />
+</p>
+<p>
+13) 
+</p>
+<br />
+
+<p>
+<img src="screenshots/1010.png" width="960" />
+</p>
+<p>
+13) 
+</p>
+<br />
+
+<p>
+<img src="screenshots/11.png" width="960" />
+</p>
+<p>
+13) 
+</p>
+<br />
+
+<p>
+<img src="screenshots/12.png" width="960" />
+</p>
+<p>
+13) 
+</p>
+<br />
