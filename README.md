@@ -218,3 +218,20 @@ This project demonstrates the installation and initial setup of an enterprise-st
 23) Refresh the osTicket site in your browser, and observe the changes.
 </p>
 <br />
+
+<p>
+<img src="screenshots/24.png" width="960" />
+</p>
+<p>
+24) Navigate to C:\inetpub\wwwroot\osTicket\include and locate the file ost-sampleconfig.php. Rename this file to ost-config.php to prepare the configuration file required for completing the osTicket setup.
+</p>
+<br />
+
+<p>
+<img src="screenshots/25.png" width="960" />
+<img src="screenshots/26.png" width="960" />
+</p>
+<p>
+25) Inside of C:\inetpub\wwwroot\osTicket\include, right-click ost-config.php, and open its Properties. Go to the Security tab, disable inheritance, and remove all existing permissions. Then add a new permission entry granting Everyone full control. This allows osTicket to write to the configuration file during the setup process.
+</p>
+<br />
