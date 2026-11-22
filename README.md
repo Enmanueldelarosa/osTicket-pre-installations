@@ -253,7 +253,8 @@ This project demonstrates the installation and initial setup of an enterprise-st
 <br />
 
 <p>
-<img src="screenshots/installp.png" width="960" />
+<img src="screenshots/lobby.png" width="960" />
+<img src="screenshots/staffc.png" width="960" />
 </p>
 <p>
 28) After the installation is complete, browse to the osTicket help desk login page: http://localhost/osTicket/scp/login.php.
@@ -261,7 +262,7 @@ This project demonstrates the installation and initial setup of an enterprise-st
 <br />
 
 <p>
-<img src="screenshots/installp.png" width="960" />
+<img src="screenshots/endu.png" width="960" />
 </p>
 <p>
 29) To access the customer-facing osTicket portal, open a browser and navigate to: http://localhost/osTicket/. Congratulations! You have successfully completed the osTicket installation and initial setup. The end-user portal is now accessible, marking the completion of this project walkthrough.
