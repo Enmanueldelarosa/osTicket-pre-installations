@@ -235,3 +235,19 @@ This project demonstrates the installation and initial setup of an enterprise-st
 25) Inside of C:\inetpub\wwwroot\osTicket\include, right-click ost-config.php, and open its Properties. Go to the Security tab, disable inheritance, and remove all existing permissions. Then add a new permission entry granting Everyone full control. This allows osTicket to write to the configuration file during the setup process.
 </p>
 <br />
+
+<p>
+<img src="screenshots/hththt.png" width="960" />
+</p>
+<p>
+26) From the osTicket-Installation-Files folder, locate and run the HeidiSQL installer. Once installed, open HeidiSQL and create a new session using the MySQL credentials configured earlier. Connect to the session and create a new database named **osTicket`**. This database will be used to store osTicket's application data.
+</p>
+<br />
+
+<p>
+<img src="screenshots/hththt.png" width="960" />
+</p>
+<p>
+27) Return to the osTicket installation page in your browser and enter the database connection details. Set the MySQL Database field to osTicket, enter root as the MySQL username, and provide the password configured during the MySQL installation. Once all fields are completed, click Install Now! to begin the osTicket installation.
+</p>
+<br />
