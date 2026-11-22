@@ -245,9 +245,25 @@ This project demonstrates the installation and initial setup of an enterprise-st
 <br />
 
 <p>
-<img src="screenshots/hththt.png" width="960" />
+<img src="screenshots/installp.png" width="960" />
 </p>
 <p>
 27) Return to the osTicket installation page in your browser and enter the database connection details. Set the MySQL Database field to osTicket, enter root as the MySQL username, and provide the password configured during the MySQL installation. Once all fields are completed, click Install Now! to begin the osTicket installation.
+</p>
+<br />
+
+<p>
+<img src="screenshots/installp.png" width="960" />
+</p>
+<p>
+28) After the installation is complete, browse to the osTicket help desk login page: http://localhost/osTicket/scp/login.php.
+</p>
+<br />
+
+<p>
+<img src="screenshots/installp.png" width="960" />
+</p>
+<p>
+29) To access the customer-facing osTicket portal, open a browser and navigate to: http://localhost/osTicket/. Congratulations! You have successfully completed the osTicket installation and initial setup. The end-user portal is now accessible, marking the completion of this project walkthrough.
 </p>
 <br />
